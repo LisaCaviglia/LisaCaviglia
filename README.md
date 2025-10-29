@@ -26,8 +26,5 @@ I'm **Lisa**, a Computer Science student at the University of Genoa with a stron
 
 ---
 
-## 📊 GitHub Stats
-![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LisaCaviglia&show_icons=true&theme=tokyonight)  
-
 ## 📈 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisaCaviglia&layout=compact&theme=tokyonight)  
